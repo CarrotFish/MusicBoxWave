@@ -96,7 +96,7 @@ public class WaveMaker {
             A0:     预设的开始振幅
             Ae:     默认结束的振幅
             k0~3:   基频和n次泛频的衰减系数
-            speed:  节拍
+            speed:  速度
             notenum:一个小节的音符数量
             notes:  乐谱
         */
